@@ -10,8 +10,8 @@
 ## 👩‍💻 Professional Summary
 - B.E. student in **Information Science & Engineering** with strong foundation in **OOP, DSA, and Backend Development**
 - Hands-on experience in building **RESTful APIs** and scalable backend systems
-- Familiar with **enterprise-quality clean code practices**
-- Passionate about **problem solving, debugging, and writing maintainable code**
+- Strong focus on **clean code, debugging, and enterprise-level practices**
+- Passionate about **problem solving and real-world application development**
 
 ---
 
@@ -24,26 +24,25 @@ Bachelor of Engineering – Information Science & Engineering
 
 ---
 
-## 🛠️ Technical Skills
-**Languages:**  
-- Java, Python, SQL, JavaScript  
+## 🛠️ Languages | Frameworks | Tools
 
-**Core Concepts:**  
-- Object-Oriented Programming  
-- Data Structures & Algorithms  
-- Complexity Analysis  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+</p>
 
-**Frameworks & Tools:**  
-- Spring Boot, Flask  
-- Git, GitHub  
-- Postman, Eclipse, VS Code  
-
-**Testing:**  
-- Unit Testing (xUnit basics)  
-- API Testing & Debugging  
-
-**Databases:**  
-- PostgreSQL, MySQL, MongoDB  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="45"/>
+</p>
 
 ---
 
@@ -54,9 +53,9 @@ Bachelor of Engineering – Information Science & Engineering
 📅 Apr 2024 – Jun 2024  
 
 - Developed **RESTful APIs** using Spring Boot for placement workflow management  
-- Implemented **MVC architecture** for modular, scalable, and testable code  
-- Performed API validation using **Postman** with proper exception handling  
-- Followed **clean code and enterprise-level backend practices**
+- Applied **MVC architecture** ensuring modular, scalable, and testable code  
+- Validated APIs using **Postman** and implemented exception handling  
+- Followed **enterprise-level clean code standards**
 
 ---
 
@@ -64,10 +63,10 @@ Bachelor of Engineering – Information Science & Engineering
 **Python | Flask | Machine Learning**  
 📅 May 2024 – Jul 2024  
 
-- Built an **ML-based insurance premium prediction system** with preprocessing and evaluation pipeline  
-- Integrated trained ML models into a **Flask web application** using REST APIs  
-- Designed frontend using **HTML/CSS** with proper input validation  
-- Enabled **real-time prediction** through backend integration
+- Built an **ML-based insurance premium prediction system**  
+- Integrated trained ML models into a **Flask web application**  
+- Designed frontend using **HTML/CSS** with input validation  
+- Enabled **real-time prediction** via REST APIs
 
 ---
 
@@ -76,8 +75,8 @@ Bachelor of Engineering – Information Science & Engineering
 📅 Jan 2025 – Feb 2025  
 
 - Developed a **console-based quiz application** using core Java  
-- Designed modular classes for quiz flow, scoring, and validation  
-- Conducted **unit-level testing and debugging** to ensure stability  
+- Designed modular classes for quiz flow and scoring  
+- Performed **unit testing and debugging** for stable execution  
 
 ---
 
@@ -94,11 +93,7 @@ Bachelor of Engineering – Information Science & Engineering
 
 ## 🧩 Additional Information
 - **Volunteer:** VTU Shrishti Fest – Event Coordination  
-- **Strengths:**  
-  - Problem Solving  
-  - Debugging  
-  - Code Quality  
-  - Team Collaboration  
+- **Strengths:** Problem Solving, Debugging, Code Quality, Team Collaboration  
 
 ---
 
